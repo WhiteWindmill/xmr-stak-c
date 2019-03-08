@@ -41,6 +41,7 @@ Besides [Monero](https://getmonero.org), following coins can be mined using this
 - [Aeon](http://www.aeon.cash)
 - [BBSCoin](https://www.bbscoin.xyz)
 - [BitTube](https://coin.bit.tube/)
+- [Conceal](https://conceal.network)
 - [Graft](https://www.graft.network)
 - [Haven](https://havenprotocol.com)
 - [Lethean](https://lethean.io)
@@ -70,6 +71,7 @@ If your prefered coin is not listed, you can choose one of the following algorit
     - cryptonight_v7_stellite
     - cryptonight_v8
     - cryptonight_v8_half (used by masari and stellite)
+    - cryptonight_v8_reversewaltz (used by graft)
     - cryptonight_v8_zelerius
 - 4MiB scratchpad memory
     - cryptonight_haven
